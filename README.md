@@ -1,19 +1,18 @@
-# Hra Lodě
+# Game Battleship
 
-Vylepšený zápočtový program pro Pokročílý C# v roce 2023 \
-založený na zápočtovém programu pro Programování 2 v roce 2022. \
+Uni credit program for c# course \
 \
-Hra mořský boj na vlastním konzolovém enginu v С#. \
-Ovládá se pomocí šípek a klávesy enter. Případně dálší specifikováné klávesy v okně. \
+The game Battleship on its own engine in С#. \
+Controlled by arrows and enter. Or other specified keys in the window. \
 Default network port: 25555 \
 \
-Engine podporuje: \
-\* pokročílé grafické možnosti v konzoli jako barvy a fonty s optimalizacemi, \
-\* univerzální systém scén, \
-\* ovládání z klávesnice, \
-\* tvorbu sítě klient-server \
+Engine supports: \
+\* advanced graphics options in the console such as colors and fonts with optimizations, \
+\* universal scene system, \
+\* control from keyboard, \
+\* creation of client-server network \
 \
-K dispozici je také Prezentace: Lode.pptx a Uživatelská dokumentace: Lode.docx\
-V případě jakéhokoliv dotazu kontaktujte tvůrce na oleg.petruny@gmail.com \
+There is also available the presentation: Lode.pptx and documentation: Lode.docx in Czech\
+In case of any questions, contact the creator at oleg.petruny@gmail.com \
 \
 Licence MIT
